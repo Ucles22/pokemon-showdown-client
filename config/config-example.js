@@ -20,9 +20,9 @@ Config.whitelist = [
 // address bar is `Config.routes.client`.
 Config.defaultserver = {
 	id: 'showdown',
-	host: 'showdown.pokemania.network',
-	port: 8081,
-	httpport: 8000,
+	host: 'server.howdown.pokemania.network',
+	port: 443,
+	httpport: 80,
 	altport: 80,
 	registered: true
 };
